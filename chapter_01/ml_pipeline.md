@@ -61,4 +61,4 @@ Features and models sit between  raw data and the desire insight. In ML workflow
 - Good  features make the subsequent modeling steps easy and the resulting model more  capable of comppleting the desired task.
 - Bad features may requre a much more complicated model to achieve the same level of performance.
 
-![](img/ch0101.png)
+![img](img/ch0101.PNG)
